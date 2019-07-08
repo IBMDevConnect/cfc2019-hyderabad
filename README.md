@@ -1,6 +1,3 @@
-# cfc2019-hyderabad
-Content presented during Call For Code hackathon day at Hyderabad
-
 Signup for a free IBM Cloud account that never expires = https://ibm.biz/BdzPCZ
 
 Join the Call For Code Slack channel = http://callforcode.org/slack
